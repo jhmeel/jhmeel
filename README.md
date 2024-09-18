@@ -1,6 +1,3 @@
-# 💫 About Me:
-I'm a software engineer with extensive experience, having worked with companies like Curebase and Zapier. I've written numerous articles on tech topics and regularly help people transition into tech from other fields.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhmeel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jhmeel-mikail-26796423b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@urstrulyjhmeel) [![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white)](https://x.com/urstrulyjhmeel)
