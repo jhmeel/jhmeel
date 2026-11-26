@@ -17,7 +17,7 @@ const CONFIG = {
   socials: [
     { id: "instagram", text: "Instagram  @jhmeel_", fill: "#c2324f" },
     { id: "linkedin", text: "LinkedIn", fill: "#1f5f99" },
-    { id: "github", text: "GitHub", fill: "#2b3150" },
+    { id: "portfolio", text: "Portfolio", fill: "#2b3150" },
   ],
 };
 // ─────────────────────────────────────

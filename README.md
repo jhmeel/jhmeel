@@ -4,7 +4,7 @@
 
 <a href="https://instagram.com/jhmeel_"><img src="assets/social-instagram.svg" alt="Instagram" height="38" /></a>
 <a href="https://linkedin.com/in/jhmeel-mikail-26796423b"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="38" /></a>
-<a href="https://github.com/jhmeel"><img src="assets/social-github.svg" alt="GitHub" height="38" /></a>
+<a href="https://jhmeelmikail.com"><img src="assets/social-portfolio.svg" alt="Portfolio" height="38" /></a>
 
 <img src="assets/stats.svg" alt="On GitHub" width="100%" />
 
